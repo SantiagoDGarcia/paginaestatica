@@ -1,7 +1,7 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: "Como crear un jupyter book y subirlo a gitpages"
+title: "Mi primer libro en jupyterbook con Github Actions"
 author: Santiago García
 logo: img/logo.png
 

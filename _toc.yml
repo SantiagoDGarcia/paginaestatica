@@ -1,8 +1,4 @@
-# Table of content
-# Learn more at https://jupyterbook.org/customize/toc.html
-#
-- file: intro
-- file: content
-  sections:
-    - file: markdown
-    - file: notebooks
+- file: pagina1
+- file: pagina2
+- file: pagina3
+- file: pagina4
